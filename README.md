@@ -1,7 +1,7 @@
 # fuber
 Car sharing thing
 
-## goals
+## short/mid goals
 - security
   - protect user data
   - protect access to sensitive data
@@ -16,3 +16,7 @@ Car sharing thing
   - call ride
   - payment
   - see all current rides
+
+## long goals
+- BI, data mining
+  - when are rides needed less/more in an area (air traffick, festivals, events, lockdowns...) 
