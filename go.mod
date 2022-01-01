@@ -1,3 +1,3 @@
-module https://github.com/m26n/fuber
+module github.com/m26n/fuber
 
-go 1.17.5
+go 1.17
